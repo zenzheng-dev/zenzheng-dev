@@ -32,7 +32,7 @@ I am building practical AI applications with Large Language Models, RAG, and Age
 
 ## 📂 Projects
 
-Coming soon...
+## Learning Git & GitHub
 
 ---
 
