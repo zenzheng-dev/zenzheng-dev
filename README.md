@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Zen Zheng 👋
 
-<!--
-**zenzheng-dev/zenzheng-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Application Engineer | FDE Candidate
 
-Here are some ideas to get you started:
+I am building practical AI applications with Large Language Models, RAG, and Agent workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎯 Goal: AI Application Engineer / Forward Deployed Engineer
+- 🧠 Focus: LLM Apps, RAG, AI Agents
+- 🐍 Programming: Python
+- 🔐 Background: Information Security
+
+## 🛠️ Tech Stack
+
+### AI & LLM
+- Large Language Models
+- Prompt Engineering
+- RAG
+- AI Agent
+
+### Development
+- Python
+- Git & GitHub
+- VS Code
+
+## 📌 Current Learning
+
+- Building AI applications
+- Exploring Agent frameworks
+- Developing practical AI projects
+
+## 📂 Projects
+
+Coming soon...
+
+---
+
+📍 Hangzhou, China
